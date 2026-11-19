@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+captures/
+output/
+*.csv
+*.xlsx
+*.xml
+records.json
+.DS_Store
+.venv/
+.env
+*.log
+*.jsonl
